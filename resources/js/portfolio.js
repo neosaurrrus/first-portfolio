@@ -12,10 +12,11 @@ const projects = document.querySelector(".projects-parent");
 const origin = document.querySelector(".origin-parent");
 const skillsScroll = document.querySelector(".skills-slider");
 
-function colorSwitch(x, background, darkbackground) {
+function colorSwitch(x, background, darkbackground, highlight) {
     header.style.setProperty('background-position-x', x + '%');
     body.style.setProperty('--background', background);
     body.style.setProperty('--darkbackground', darkbackground);
+    body.style.setProperty('--highlight', highlight);
 };
 
 
@@ -23,25 +24,19 @@ function colorSwitch(x, background, darkbackground) {
 // Passing parameters via add event listener
 
 meNav.addEventListener("click", function () {
-    colorSwitch(0, "rgb(44,130,89)", "rgb(30,79,54)")
+    colorSwitch(0, "rgb(44,130,89)", "rgb(30,79,54)", "rgb(255, 240, 100")
     me.style.setProperty('display', 'block');
     projects.style.setProperty('display', 'none');
     origin.style.setProperty('display', 'none');
-    // let mePosition= 0;
-    // let projectsPosition = 100;
-    // let originPosition = 200;
-    // me.style.setProperty('left', mePosition +'%')
-    // projects.style.setProperty('left', projectsPosition +'%')
-    // origin.style.setProperty('left', originPosition +'%')
 });
 projectsNav.addEventListener("click", function () {
-    colorSwitch(50, "rgb(189,59,4)", "rgb(79,51,30)");
+    colorSwitch(50, "rgb(189,59,4)", "rgb(79,51,30)", "rgb(255, 240, 60");
     me.style.setProperty('display', 'none');
     projects.style.setProperty('display', 'block');
     origin.style.setProperty('display', 'none');
 });
 originNav.addEventListener("click", function () {
-    colorSwitch(100, "rgb(0,53,133)", "rgb(30,54,79)")
+    colorSwitch(100, "rgb(0,53,133)", "rgb(0,30,50)", "rgb(255,240,30)")
     me.style.setProperty('display', 'none');
     projects.style.setProperty('display', 'none');
     origin.style.setProperty('display', 'block');
