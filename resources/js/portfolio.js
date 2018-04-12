@@ -46,7 +46,7 @@ projectsNav.addEventListener("click", function () {
 });
 originNav.addEventListener("click", function () {
     colorSwitch(100, "rgb(0,53,133)", "rgb(0,30,50)", "rgb(255,240,30)")
-    backgroundSwitch("-200%", "-100%", "-10%");
+    backgroundSwitch("-200%", "-100%", "0%");
     me.style.setProperty('display', 'none');
     projects.style.setProperty('display', 'none');
     origin.style.setProperty('display', 'block');

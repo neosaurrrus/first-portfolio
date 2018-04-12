@@ -1,397 +1,393 @@
 <svg width="1440" height="600" viewBox="0 0 1440 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <title>3</title>
 <desc>Created using Figma</desc>
-<g id="Canvas" transform="translate(139 -416)">
+<g id="Canvas" transform="translate(485 -379)">
 <clipPath id="clip-0" clip-rule="evenodd">
-<path d="M -139 416L 1301 416L 1301 1016L -139 1016L -139 416Z" fill="#FFFFFF"/>
+<path d="M -485 379L 955 379L 955 979L -485 979L -485 379Z" fill="#FFFFFF"/>
 </clipPath>
 <g id="3" clip-path="url(#clip-0)">
-<path d="M -139 416L 1301 416L 1301 1016L -139 1016L -139 416Z" fill="#FFFFFF"/>
+<path d="M -485 379L 955 379L 955 979L -485 979L -485 379Z" fill="#FFFFFF"/>
 <clipPath id="clip-1" clip-rule="evenodd">
-<path d="M -151.522 415.486L 1305.48 415.486L 1305.48 1017.49L -151.522 1017.49L -151.522 415.486Z" fill="#FFFFFF"/>
+<path d="M -505 378L 958 378L 958 993L -505 993L -505 378Z" fill="#FFFFFF"/>
 </clipPath>
 <g id="3" clip-path="url(#clip-1)">
-<path d="M -151.522 415.486L 1305.48 415.486L 1305.48 1017.49L -151.522 1017.49L -151.522 415.486Z" fill="#003585"/>
+<path d="M -505 378L 958 378L 958 993L -505 993L -505 378Z" fill="#003585"/>
 </g>
+<g id="Moon" filter="url(#filter0_d)">
 <g id="Ellipse 2">
-<use xlink:href="#path0_fill" transform="translate(166.478 453.486)" fill="#828282"/>
+<use xlink:href="#path0_fill" transform="translate(-256 578)" fill="#828282"/>
 </g>
-<g id="Ellipse 2.1" filter="url(#filter0_d)">
-<use xlink:href="#path1_fill" transform="translate(194.478 519.486)" fill="#999999"/>
+<g id="Ellipse 2.1" filter="url(#filter1_d)">
+<use xlink:href="#path1_fill" transform="translate(-228 644)" fill="#999999"/>
 </g>
-<g id="Ellipse 2.2" filter="url(#filter1_d)">
-<use xlink:href="#path2_fill" transform="matrix(0.999173 0.040667 -0.040667 0.999173 190.983 478.073)" fill="#999999"/>
+<g id="Ellipse 2.2" filter="url(#filter2_d)">
+<use xlink:href="#path2_fill" transform="matrix(0.999173 0.040667 -0.040667 0.999173 -231.495 602.586)" fill="#999999"/>
 </g>
-<g id="Ellipse 2.4" filter="url(#filter2_d)">
-<use xlink:href="#path3_fill" transform="matrix(0.999173 0.040667 -0.040667 0.999173 244.119 495.486)" fill="#999999"/>
+<g id="Ellipse 2.4" filter="url(#filter3_d)">
+<use xlink:href="#path3_fill" transform="matrix(0.999173 0.040667 -0.040667 0.999173 -178.359 620)" fill="#999999"/>
 </g>
-<g id="Ellipse 2.3" filter="url(#filter3_d)">
-<use xlink:href="#path2_fill" transform="matrix(0.999173 0.040667 -0.040667 0.999173 220.983 456.486)" fill="#999999"/>
+<g id="Ellipse 2.3" filter="url(#filter4_d)">
+<use xlink:href="#path2_fill" transform="matrix(0.999173 0.040667 -0.040667 0.999173 -201.495 581)" fill="#999999"/>
 </g>
-<g id="Group" filter="url(#filter4_d)">
+</g>
+<g id="Group" filter="url(#filter5_d)">
 <g id="Group 2.1">
 <g id="Star">
-<use xlink:href="#path4_fill" transform="matrix(-0.645127 0.764075 -0.764075 -0.645127 229.769 817.674)" fill="#C4C4C4"/>
+<use xlink:href="#path4_fill" transform="matrix(-0.645127 0.764075 -0.764075 -0.645127 -107.231 789.674)" fill="#C4C4C4"/>
 </g>
 <g id="Star">
-<use xlink:href="#path5_fill" transform="matrix(-0.0379563 0.999279 -0.999279 -0.0379563 161.524 763.151)" fill="#C4C4C4"/>
+<use xlink:href="#path5_fill" transform="matrix(-0.0379563 0.999279 -0.999279 -0.0379563 -175.476 735.151)" fill="#C4C4C4"/>
 </g>
 <g id="Star">
-<use xlink:href="#path6_fill" transform="matrix(-0.645127 0.764075 -0.764075 -0.645127 200.216 870.184)" fill="#C4C4C4"/>
+<use xlink:href="#path6_fill" transform="matrix(-0.645127 0.764075 -0.764075 -0.645127 -136.784 842.184)" fill="#C4C4C4"/>
 </g>
 <g id="Star">
-<use xlink:href="#path7_fill" transform="matrix(-0.960414 -0.278576 0.278576 -0.960414 228.973 766.908)" fill="#DBDBDB"/>
+<use xlink:href="#path7_fill" transform="matrix(-0.960414 -0.278576 0.278576 -0.960414 -108.027 738.908)" fill="#DBDBDB"/>
 </g>
 <g id="Star">
-<use xlink:href="#path8_fill" transform="matrix(0.321386 0.946948 -0.946948 0.321386 117.234 828.43)" fill="#FFFFFF"/>
+<use xlink:href="#path8_fill" transform="matrix(0.321386 0.946948 -0.946948 0.321386 -219.766 800.43)" fill="#FFFFFF"/>
 </g>
 </g>
 <g id="Group 2.3">
 <g id="Star">
-<use xlink:href="#path4_fill" transform="matrix(-0.931866 0.362804 -0.362804 -0.931866 476.398 575.532)" fill="#C4C4C4"/>
+<use xlink:href="#path4_fill" transform="matrix(-0.931866 0.362804 -0.362804 -0.931866 139.398 547.532)" fill="#C4C4C4"/>
 </g>
 <g id="Star">
-<use xlink:href="#path5_fill" transform="matrix(-0.510956 0.859607 -0.859607 -0.510956 442.512 495.022)" fill="#C4C4C4"/>
+<use xlink:href="#path5_fill" transform="matrix(-0.510956 0.859607 -0.859607 -0.510956 105.512 467.022)" fill="#C4C4C4"/>
 </g>
 <g id="Star">
-<use xlink:href="#path6_fill" transform="matrix(-0.931866 0.362804 -0.362804 -0.931866 425.341 607.531)" fill="#C4C4C4"/>
+<use xlink:href="#path6_fill" transform="matrix(-0.931866 0.362804 -0.362804 -0.931866 88.3406 579.531)" fill="#C4C4C4"/>
 </g>
 <g id="Star">
-<use xlink:href="#path7_fill" transform="matrix(-0.710461 -0.703736 0.703736 -0.710461 499.962 530.56)" fill="#DBDBDB"/>
+<use xlink:href="#path7_fill" transform="matrix(-0.710461 -0.703736 0.703736 -0.710461 162.962 502.56)" fill="#DBDBDB"/>
 </g>
 <g id="Star">
-<use xlink:href="#path8_fill" transform="matrix(-0.170304 0.985392 -0.985392 -0.170304 372.407 531.193)" fill="#FFFFFF"/>
+<use xlink:href="#path8_fill" transform="matrix(-0.170304 0.985392 -0.985392 -0.170304 35.4072 503.193)" fill="#FFFFFF"/>
 </g>
 </g>
 <g id="Group 2.4">
 <g id="Star">
-<use xlink:href="#path9_fill" transform="matrix(-0.999933 0.0116204 -0.131756 0.991282 472.418 707.704)" fill="#C4C4C4"/>
+<use xlink:href="#path9_fill" transform="matrix(-0.999933 0.0116204 -0.131756 0.991282 135.419 679.704)" fill="#C4C4C4"/>
 </g>
 <g id="Star">
-<use xlink:href="#path10_fill" transform="matrix(-0.858107 -0.513471 -0.76773 0.640774 460.267 779.049)" fill="#C4C4C4"/>
+<use xlink:href="#path10_fill" transform="matrix(-0.858107 -0.513471 -0.76773 0.640774 123.267 751.049)" fill="#C4C4C4"/>
 </g>
 <g id="Star">
-<use xlink:href="#path11_fill" transform="matrix(-0.999933 0.0116204 -0.131756 0.991282 406.808 699.256)" fill="#C4C4C4"/>
+<use xlink:href="#path11_fill" transform="matrix(-0.999933 0.0116204 -0.131756 0.991282 69.8079 671.256)" fill="#C4C4C4"/>
 </g>
 <g id="Star">
-<use xlink:href="#path12_fill" transform="matrix(-0.596501 0.802612 0.95124 0.308453 512.018 734.447)" fill="#DBDBDB"/>
+<use xlink:href="#path12_fill" transform="matrix(-0.596501 0.802612 0.95124 0.308453 175.018 706.447)" fill="#DBDBDB"/>
 </g>
 <g id="Star">
-<use xlink:href="#path13_fill" transform="matrix(-0.577449 -0.816427 -0.920986 0.389595 372.575 773.323)" fill="#FFFFFF"/>
+<use xlink:href="#path13_fill" transform="matrix(-0.577449 -0.816427 -0.920986 0.389595 35.5747 745.323)" fill="#FFFFFF"/>
 </g>
 </g>
 <g id="Group 2.2">
 <g id="Star">
-<use xlink:href="#path4_fill" transform="matrix(-0.645127 0.764075 -0.764075 -0.645127 45.7675 563.674)" fill="#C4C4C4"/>
+<use xlink:href="#path4_fill" transform="matrix(-0.645127 0.764075 -0.764075 -0.645127 -291.233 535.674)" fill="#C4C4C4"/>
 </g>
 <g id="Star">
-<use xlink:href="#path8_fill" transform="matrix(0.321386 0.946948 -0.946948 0.321386 -66.768 574.43)" fill="#FFFFFF"/>
+<use xlink:href="#path8_fill" transform="matrix(0.321386 0.946948 -0.946948 0.321386 -403.768 546.43)" fill="#FFFFFF"/>
 </g>
 <g id="Group 2.1">
 <g id="Star">
-<use xlink:href="#path4_fill" transform="matrix(-0.645127 0.764075 -0.764075 -0.645127 809.101 875.103)" fill="#C4C4C4"/>
+<use xlink:href="#path4_fill" transform="matrix(-0.645127 0.764075 -0.764075 -0.645127 472.101 847.103)" fill="#C4C4C4"/>
 </g>
 <g id="Star">
-<use xlink:href="#path5_fill" transform="matrix(-0.0379563 0.999279 -0.999279 -0.0379563 743.75 455.577)" fill="#C4C4C4"/>
+<use xlink:href="#path5_fill" transform="matrix(-0.0379563 0.999279 -0.999279 -0.0379563 406.75 427.577)" fill="#C4C4C4"/>
 </g>
 <g id="Star">
-<use xlink:href="#path6_fill" transform="matrix(-0.645127 0.764075 -0.764075 -0.645127 782.442 562.61)" fill="#C4C4C4"/>
+<use xlink:href="#path6_fill" transform="matrix(-0.645127 0.764075 -0.764075 -0.645127 445.442 534.611)" fill="#C4C4C4"/>
 </g>
 <g id="Star">
-<use xlink:href="#path7_fill" transform="matrix(-0.960414 -0.278576 0.278576 -0.960414 811.199 459.334)" fill="#DBDBDB"/>
+<use xlink:href="#path7_fill" transform="matrix(-0.960414 -0.278576 0.278576 -0.960414 474.199 431.334)" fill="#DBDBDB"/>
 </g>
 <g id="Star">
-<use xlink:href="#path4_fill" transform="matrix(-0.645127 0.764075 -0.764075 -0.645127 1077.1 670.104)" fill="#C4C4C4"/>
+<use xlink:href="#path4_fill" transform="matrix(-0.645127 0.764075 -0.764075 -0.645127 740.105 642.104)" fill="#C4C4C4"/>
 </g>
 <g id="Star">
-<use xlink:href="#path5_fill" transform="matrix(-0.0379563 0.999279 -0.999279 -0.0379563 1008.86 615.581)" fill="#C4C4C4"/>
+<use xlink:href="#path5_fill" transform="matrix(-0.0379563 0.999279 -0.999279 -0.0379563 671.859 587.581)" fill="#C4C4C4"/>
 </g>
 <g id="Star">
-<use xlink:href="#path6_fill" transform="matrix(-0.645127 0.764075 -0.764075 -0.645127 617.371 659.188)" fill="#C4C4C4"/>
+<use xlink:href="#path6_fill" transform="matrix(-0.645127 0.764075 -0.764075 -0.645127 280.371 631.188)" fill="#C4C4C4"/>
 </g>
 <g id="Star">
-<use xlink:href="#path7_fill" transform="matrix(-0.960414 -0.278576 0.278576 -0.960414 646.127 555.912)" fill="#DBDBDB"/>
+<use xlink:href="#path7_fill" transform="matrix(-0.960414 -0.278576 0.278576 -0.960414 309.127 527.912)" fill="#DBDBDB"/>
 </g>
 <g id="Star">
-<use xlink:href="#path4_fill" transform="matrix(-0.645127 0.764075 -0.764075 -0.645127 912.033 766.682)" fill="#C4C4C4"/>
+<use xlink:href="#path4_fill" transform="matrix(-0.645127 0.764075 -0.764075 -0.645127 575.033 738.682)" fill="#C4C4C4"/>
 </g>
 <g id="Star">
-<use xlink:href="#path5_fill" transform="matrix(-0.0379563 0.999279 -0.999279 -0.0379563 843.787 712.159)" fill="#C4C4C4"/>
+<use xlink:href="#path5_fill" transform="matrix(-0.0379563 0.999279 -0.999279 -0.0379563 506.787 684.159)" fill="#C4C4C4"/>
 </g>
 <g id="Star">
-<use xlink:href="#path6_fill" transform="matrix(-0.645127 0.764075 -0.764075 -0.645127 882.48 819.192)" fill="#C4C4C4"/>
+<use xlink:href="#path6_fill" transform="matrix(-0.645127 0.764075 -0.764075 -0.645127 545.48 791.192)" fill="#C4C4C4"/>
 </g>
 <g id="Star">
-<use xlink:href="#path7_fill" transform="matrix(-0.785142 0.619316 -0.619316 -0.785142 337.306 964.815)" fill="#DBDBDB"/>
+<use xlink:href="#path7_fill" transform="matrix(-0.785142 0.619316 -0.619316 -0.785142 0.30603 936.815)" fill="#DBDBDB"/>
 </g>
 <g id="Star">
-<use xlink:href="#path4_fill" transform="matrix(0.246428 0.969161 -0.969161 0.246428 663.404 871.065)" fill="#C4C4C4"/>
+<use xlink:href="#path4_fill" transform="matrix(0.246428 0.969161 -0.969161 0.246428 326.404 843.065)" fill="#C4C4C4"/>
 </g>
 <g id="Star">
-<use xlink:href="#path5_fill" transform="matrix(0.790863 0.611994 -0.611994 0.790863 579.361 894.877)" fill="#C4C4C4"/>
+<use xlink:href="#path5_fill" transform="matrix(0.790863 0.611994 -0.611994 0.790863 242.361 866.877)" fill="#C4C4C4"/>
 </g>
 <g id="Star">
-<use xlink:href="#path6_fill" transform="matrix(0.246428 0.969161 -0.969161 0.246428 688.937 925.644)" fill="#C4C4C4"/>
+<use xlink:href="#path6_fill" transform="matrix(0.246428 0.969161 -0.969161 0.246428 351.937 897.644)" fill="#C4C4C4"/>
 </g>
 <g id="Star">
-<use xlink:href="#path7_fill" transform="matrix(-0.960414 -0.278576 0.278576 -0.960414 241.08 943.911)" fill="#DBDBDB"/>
+<use xlink:href="#path7_fill" transform="matrix(-0.960414 -0.278576 0.278576 -0.960414 -95.9197 915.911)" fill="#DBDBDB"/>
 </g>
 <g id="Star">
-<use xlink:href="#path8_fill" transform="matrix(0.321386 0.946948 -0.946948 0.321386 -135.767 845.429)" fill="#FFFFFF"/>
+<use xlink:href="#path8_fill" transform="matrix(0.321386 0.946948 -0.946948 0.321386 -472.767 817.429)" fill="#FFFFFF"/>
 </g>
 </g>
 </g>
 </g>
 <g id="Ellipse">
-<g filter="url(#filter5_i)">
-<use xlink:href="#path14_fill" transform="matrix(1 0 0 -1 1022.48 602.486)" fill="#F2C94C"/>
+<g filter="url(#filter6_i)">
+<use xlink:href="#path14_fill" transform="matrix(1 0 0 -1 676.478 565.486)" fill="#F2C94C"/>
 </g>
 <mask id="mask0_outline_ins">
-<use xlink:href="#path14_fill" fill="white" transform="matrix(1 0 0 -1 1022.48 602.486)"/>
+<use xlink:href="#path14_fill" fill="white" transform="matrix(1 0 0 -1 676.478 565.486)"/>
 </mask>
 <g mask="url(#mask0_outline_ins)">
-<use xlink:href="#path15_stroke_2x" transform="matrix(1 0 0 -1 1022.48 602.486)" fill="#FF0000"/>
+<use xlink:href="#path15_stroke_2x" transform="matrix(1 0 0 -1 676.478 565.486)" fill="#FF0000"/>
 </g>
 </g>
-<g id="Rocket" filter="url(#filter6_d)">
+<g id="Rocket" filter="url(#filter7_d)">
 <g id="Polygon 2">
-<use xlink:href="#path16_fill" transform="matrix(-0.321208 -0.947009 -0.984791 0.173741 331.49 806.214)" fill="#FF0000"/>
+<use xlink:href="#path16_fill" transform="matrix(-0.321208 -0.947009 -0.984791 0.173741 -14.5097 769.214)" fill="#FF0000"/>
 </g>
 <g id="Polygon 2.1">
-<use xlink:href="#path17_fill" transform="matrix(0.889581 0.456777 -0.535001 0.844852 327.109 805.878)" fill="#FF0000"/>
+<use xlink:href="#path17_fill" transform="matrix(0.889581 0.456777 -0.535001 0.844852 -18.8914 768.878)" fill="#FF0000"/>
 </g>
 <g id="Group 2">
 <g id="Polygon">
-<use xlink:href="#path18_fill" transform="matrix(0.671681 0.740841 -0.846304 0.532701 379.24 755.363)" fill="#C4C4C4"/>
+<use xlink:href="#path18_fill" transform="matrix(0.671681 0.740841 -0.846304 0.532701 33.2395 718.363)" fill="#C4C4C4"/>
 </g>
-<g id="Polygon 2" filter="url(#filter7_d)">
-<use xlink:href="#path19_fill" transform="matrix(-0.671681 -0.740841 0.846304 -0.532701 278.637 851.295)" fill="#FFE600"/>
+<g id="Polygon 2" filter="url(#filter8_d)">
+<use xlink:href="#path19_fill" transform="matrix(-0.671681 -0.740841 0.846304 -0.532701 -67.3629 814.295)" fill="#FFE600"/>
 </g>
 <g id="Polygon 3">
-<use xlink:href="#path20_fill" transform="matrix(0.671681 0.740841 0.846304 -0.532701 283.996 830.22)" fill="#F2994A"/>
+<use xlink:href="#path20_fill" transform="matrix(0.671681 0.740841 0.846304 -0.532701 -62.0035 793.22)" fill="#F2994A"/>
 </g>
 <g id="Rectangle">
-<use xlink:href="#path21_fill" transform="matrix(0.671681 0.740841 -0.846304 0.532701 351.646 775.527)" fill="#C4C4C4"/>
+<use xlink:href="#path21_fill" transform="matrix(0.671681 0.740841 -0.846304 0.532701 5.64562 738.527)" fill="#C4C4C4"/>
 </g>
 <g id="Rectangle 2">
-<use xlink:href="#path22_fill" transform="matrix(0.671681 0.740841 -0.846304 0.532701 360.918 779.007)" fill="#56CCF2"/>
+<use xlink:href="#path22_fill" transform="matrix(0.671681 0.740841 -0.846304 0.532701 14.9179 742.007)" fill="#56CCF2"/>
 </g>
 </g>
 </g>
 <g id="Rectangle">
-<use xlink:href="#path23_fill" transform="translate(92.478 643.486)" fill="#27AE60"/>
+<use xlink:href="#path23_fill" transform="translate(-245 814)" fill="#27AE60"/>
 </g>
 <g id="Rectangle">
-<use xlink:href="#path24_fill" transform="translate(75.478 648.486)" fill="#27AE60"/>
+<use xlink:href="#path24_fill" transform="translate(-250 801)" fill="#27AE60"/>
 </g>
 <g id="Star">
-<use xlink:href="#path5_fill" transform="matrix(0.766493 0.642253 -0.642253 0.766493 -43.3022 849.486)" fill="#C4C4C4"/>
+<use xlink:href="#path5_fill" transform="matrix(0.766493 0.642253 -0.642253 0.766493 -389.302 812.486)" fill="#C4C4C4"/>
 </g>
 <g id="Star">
-<use xlink:href="#path6_fill" transform="matrix(0.208595 0.978002 -0.978002 0.208595 64.9949 884.486)" fill="#C4C4C4"/>
+<use xlink:href="#path6_fill" transform="matrix(0.208595 0.978002 -0.978002 0.208595 -281.005 847.486)" fill="#C4C4C4"/>
 </g>
 <g id="Star">
-<use xlink:href="#path7_fill" transform="matrix(-0.808607 0.58835 -0.58835 -0.808607 0.993164 798.483)" fill="#DBDBDB"/>
+<use xlink:href="#path7_fill" transform="matrix(-0.808607 0.58835 -0.58835 -0.808607 -345.007 761.483)" fill="#DBDBDB"/>
 </g>
 <g id="Star">
-<use xlink:href="#path8_fill" transform="matrix(0.945303 0.326195 -0.326195 0.945303 -18.8469 924.486)" fill="#FFFFFF"/>
+<use xlink:href="#path8_fill" transform="matrix(0.945303 0.326195 -0.326195 0.945303 -364.847 887.486)" fill="#FFFFFF"/>
 </g>
-<g id="Earth" filter="url(#filter8_d)">
+<g id="Earth" filter="url(#filter9_d)">
 <g id="Ellipse 3">
-<use xlink:href="#path25_fill" transform="translate(-94.522 480.486)" fill="#147AD9"/>
+<use xlink:href="#path25_fill" transform="translate(-431.522 636.486)" fill="#147AD9"/>
 </g>
-<g id="Group 2" filter="url(#filter9_d)">
+<g id="Group 2" filter="url(#filter10_d)">
 <g id="Rectangle">
-<use xlink:href="#path26_fill" transform="translate(-10.522 490.486)" fill="#E3E3E3"/>
-</g>
-<g id="Rectangle">
-<use xlink:href="#path27_fill" transform="translate(6.47803 480.486)" fill="#E3E3E3"/>
-</g>
-</g>
-<g id="Group 2.1" filter="url(#filter10_d)">
-<g id="Rectangle">
-<use xlink:href="#path26_fill" transform="matrix(-0.999999 -0.00152019 0.00152019 -0.999999 107.493 728.664)" fill="#E3E3E3"/>
+<use xlink:href="#path26_fill" transform="translate(-347.522 646.486)" fill="#E3E3E3"/>
 </g>
 <g id="Rectangle">
-<use xlink:href="#path27_fill" transform="matrix(-0.999999 -0.00152019 0.00152019 -0.999999 90.4778 738.638)" fill="#E3E3E3"/>
+<use xlink:href="#path27_fill" transform="translate(-330.522 636.486)" fill="#E3E3E3"/>
 </g>
 </g>
-<g id="Group" filter="url(#filter11_d)">
-<g id="Rectangle 3">
-<use xlink:href="#path28_fill" transform="translate(-41.522 530.486)" fill="#6FCF97"/>
+<g id="Group 2.1" filter="url(#filter11_d)">
+<g id="Rectangle">
+<use xlink:href="#path26_fill" transform="matrix(-0.999999 -0.00152019 0.00152019 -0.999999 -229.507 884.664)" fill="#E3E3E3"/>
 </g>
-<g id="Rectangle 3.1">
-<use xlink:href="#path28_fill" transform="translate(-24.522 563.486)" fill="#6FCF97"/>
-</g>
-<g id="Rectangle 3.2">
-<use xlink:href="#path29_fill" transform="translate(-63.522 600.486)" fill="#6FCF97"/>
-</g>
-<g id="Rectangle 3.4">
-<use xlink:href="#path29_fill" transform="matrix(0.972604 -0.232468 0.232468 0.972604 -75.522 572.759)" fill="#6FCF97"/>
-</g>
-<g id="Rectangle 3.3">
-<use xlink:href="#path30_fill" transform="translate(-22.522 546.486)" fill="#6FCF97"/>
-</g>
-<g id="Rectangle 3">
-<use xlink:href="#path31_fill" transform="matrix(0.119997 0.992774 -0.992774 0.119997 12.27 592.62)" fill="#27AE60"/>
-</g>
-<g id="Rectangle 3">
-<use xlink:href="#path32_fill" transform="matrix(0.993831 -0.110908 0.110908 0.993831 -65.0684 575.689)" fill="#27AE60"/>
-</g>
-<g id="Rectangle 4">
-<use xlink:href="#path33_fill" transform="translate(-69.522 556.486)" fill="#27AE60"/>
-</g>
-<g id="Rectangle 2">
-<use xlink:href="#path34_fill" transform="matrix(0.981741 0.190222 -0.190222 0.981741 -48.3611 539.975)" fill="#27AE60"/>
+<g id="Rectangle">
+<use xlink:href="#path27_fill" transform="matrix(-0.999999 -0.00152019 0.00152019 -0.999999 -246.522 894.638)" fill="#E3E3E3"/>
 </g>
 </g>
 <g id="Group" filter="url(#filter12_d)">
 <g id="Rectangle 3">
-<use xlink:href="#path35_fill" transform="matrix(0.89755 -0.440913 0.440913 0.89755 72.4397 521.818)" fill="#6FCF97"/>
+<use xlink:href="#path28_fill" transform="translate(-378.522 686.486)" fill="#6FCF97"/>
 </g>
 <g id="Rectangle 3.1">
-<use xlink:href="#path35_fill" transform="matrix(0.89755 -0.440913 0.440913 0.89755 87.9753 535.802)" fill="#6FCF97"/>
+<use xlink:href="#path28_fill" transform="translate(-361.522 719.486)" fill="#6FCF97"/>
 </g>
 <g id="Rectangle 3.2">
-<use xlink:href="#path36_fill" transform="matrix(0.89755 -0.440913 0.440913 0.89755 81.552 563.195)" fill="#6FCF97"/>
+<use xlink:href="#path29_fill" transform="translate(-400.522 756.486)" fill="#6FCF97"/>
 </g>
 <g id="Rectangle 3.4">
-<use xlink:href="#path37_fill" transform="matrix(0.728529 -0.685015 0.597604 0.801792 69.4365 550.984)" fill="#6FCF97"/>
+<use xlink:href="#path29_fill" transform="matrix(0.972604 -0.232468 0.232468 0.972604 -412.522 728.759)" fill="#6FCF97"/>
 </g>
 <g id="Rectangle 3.3">
-<use xlink:href="#path38_fill" transform="matrix(0.89755 -0.440913 0.440913 0.89755 84.3899 526.428)" fill="#6FCF97"/>
+<use xlink:href="#path30_fill" transform="translate(-359.522 702.486)" fill="#6FCF97"/>
 </g>
 <g id="Rectangle 3">
-<use xlink:href="#path39_fill" transform="matrix(0.523026 0.852317 -0.81924 0.573451 110.636 543.755)" fill="#27AE60"/>
+<use xlink:href="#path31_fill" transform="matrix(0.119997 0.992774 -0.992774 0.119997 -324.73 748.62)" fill="#27AE60"/>
 </g>
 <g id="Rectangle 3">
-<use xlink:href="#path40_fill" transform="matrix(0.825869 -0.563862 0.516912 0.856039 74.4887 550.421)" fill="#27AE60"/>
+<use xlink:href="#path32_fill" transform="matrix(0.993831 -0.110908 0.110908 0.993831 -402.068 731.689)" fill="#27AE60"/>
 </g>
 <g id="Rectangle 4">
-<use xlink:href="#path41_fill" transform="matrix(0.89755 -0.440913 0.440913 0.89755 67.682 541.186)" fill="#27AE60"/>
+<use xlink:href="#path33_fill" transform="translate(-406.522 712.486)" fill="#27AE60"/>
 </g>
 <g id="Rectangle 2">
-<use xlink:href="#path42_fill" transform="matrix(0.977489 -0.210985 0.302168 0.953255 72.0911 528.204)" fill="#27AE60"/>
+<use xlink:href="#path34_fill" transform="matrix(0.981741 0.190222 -0.190222 0.981741 -385.361 695.975)" fill="#27AE60"/>
 </g>
 </g>
 <g id="Group" filter="url(#filter13_d)">
 <g id="Rectangle 3">
-<use xlink:href="#path43_fill" transform="matrix(0.89755 -0.440913 0.440913 0.89755 66.8288 647.051)" fill="#6FCF97"/>
+<use xlink:href="#path35_fill" transform="matrix(0.89755 -0.440913 0.440913 0.89755 -264.56 677.818)" fill="#6FCF97"/>
 </g>
 <g id="Rectangle 3.1">
-<use xlink:href="#path43_fill" transform="matrix(0.89755 -0.440913 0.440913 0.89755 85.1436 649.776)" fill="#6FCF97"/>
+<use xlink:href="#path35_fill" transform="matrix(0.89755 -0.440913 0.440913 0.89755 -249.025 691.802)" fill="#6FCF97"/>
 </g>
 <g id="Rectangle 3.2">
-<use xlink:href="#path44_fill" transform="matrix(0.89755 -0.440913 0.440913 0.89755 58.9724 675.776)" fill="#6FCF97"/>
+<use xlink:href="#path36_fill" transform="matrix(0.89755 -0.440913 0.440913 0.89755 -255.448 719.195)" fill="#6FCF97"/>
 </g>
 <g id="Rectangle 3.4">
-<use xlink:href="#path45_fill" transform="matrix(0.856968 -0.51537 0.866539 0.499109 45.4207 672.584)" fill="#6FCF97"/>
+<use xlink:href="#path37_fill" transform="matrix(0.728529 -0.685015 0.597604 0.801792 -267.564 706.984)" fill="#6FCF97"/>
 </g>
 <g id="Rectangle 3.3">
-<use xlink:href="#path46_fill" transform="matrix(0.89755 -0.440913 0.440913 0.89755 84.3629 644.121)" fill="#6FCF97"/>
+<use xlink:href="#path38_fill" transform="matrix(0.89755 -0.440913 0.440913 0.89755 -252.61 682.428)" fill="#6FCF97"/>
 </g>
 <g id="Rectangle 3">
-<use xlink:href="#path47_fill" transform="matrix(0.706224 0.707988 -0.87778 0.479064 118.836 643.574)" fill="#27AE60"/>
+<use xlink:href="#path39_fill" transform="matrix(0.523026 0.852317 -0.81924 0.573451 -226.364 699.755)" fill="#27AE60"/>
 </g>
 <g id="Rectangle 3">
-<use xlink:href="#path48_fill" transform="matrix(0.879353 -0.47617 0.689355 0.724424 54.2421 669.291)" fill="#27AE60"/>
+<use xlink:href="#path40_fill" transform="matrix(0.825869 -0.563862 0.516912 0.856039 -262.511 706.421)" fill="#27AE60"/>
 </g>
 <g id="Rectangle 4">
-<use xlink:href="#path49_fill" transform="matrix(0.89755 -0.440913 0.440913 0.89755 47.9598 665.556)" fill="#27AE60"/>
+<use xlink:href="#path41_fill" transform="matrix(0.89755 -0.440913 0.440913 0.89755 -269.318 697.186)" fill="#27AE60"/>
 </g>
 <g id="Rectangle 2">
-<use xlink:href="#path50_fill" transform="matrix(0.925744 -0.37815 -0.0421147 0.999113 62.6616 652.468)" fill="#27AE60"/>
+<use xlink:href="#path42_fill" transform="matrix(0.977489 -0.210985 0.302168 0.953255 -264.909 684.204)" fill="#27AE60"/>
 </g>
 </g>
 <g id="Group" filter="url(#filter14_d)">
 <g id="Rectangle 3">
-<use xlink:href="#path51_fill" transform="matrix(0.89755 -0.440913 0.440913 0.89755 99.3861 630.778)" fill="#6FCF97"/>
+<use xlink:href="#path43_fill" transform="matrix(0.89755 -0.440913 0.440913 0.89755 -270.171 803.051)" fill="#6FCF97"/>
 </g>
 <g id="Rectangle 3.1">
-<use xlink:href="#path51_fill" transform="matrix(0.89755 -0.440913 0.440913 0.89755 114.044 645.571)" fill="#6FCF97"/>
+<use xlink:href="#path43_fill" transform="matrix(0.89755 -0.440913 0.440913 0.89755 -251.856 805.776)" fill="#6FCF97"/>
 </g>
 <g id="Rectangle 3.2">
-<use xlink:href="#path52_fill" transform="matrix(0.89755 -0.440913 0.440913 0.89755 110.144 672.146)" fill="#6FCF97"/>
+<use xlink:href="#path44_fill" transform="matrix(0.89755 -0.440913 0.440913 0.89755 -278.028 831.776)" fill="#6FCF97"/>
 </g>
 <g id="Rectangle 3.4">
-<use xlink:href="#path53_fill" transform="matrix(0.691071 -0.722787 0.573924 0.818908 98.6274 659.324)" fill="#6FCF97"/>
+<use xlink:href="#path45_fill" transform="matrix(0.856968 -0.51537 0.866539 0.499109 -291.579 828.584)" fill="#6FCF97"/>
 </g>
 <g id="Rectangle 3.3">
-<use xlink:href="#path54_fill" transform="matrix(0.89755 -0.440913 0.440913 0.89755 110.261 636.1)" fill="#6FCF97"/>
+<use xlink:href="#path46_fill" transform="matrix(0.89755 -0.440913 0.440913 0.89755 -252.637 800.121)" fill="#6FCF97"/>
 </g>
 <g id="Rectangle 3">
-<use xlink:href="#path55_fill" transform="matrix(0.5101 0.860115 -0.802199 0.597056 134.614 654.883)" fill="#27AE60"/>
+<use xlink:href="#path47_fill" transform="matrix(0.706224 0.707988 -0.87778 0.479064 -218.164 799.574)" fill="#27AE60"/>
 </g>
 <g id="Rectangle 3">
-<use xlink:href="#path56_fill" transform="matrix(0.810349 -0.585947 0.504918 0.863168 103.062 659.098)" fill="#27AE60"/>
+<use xlink:href="#path48_fill" transform="matrix(0.879353 -0.47617 0.689355 0.724424 -282.758 825.291)" fill="#27AE60"/>
 </g>
 <g id="Rectangle 4">
-<use xlink:href="#path57_fill" transform="matrix(0.89755 -0.440913 0.440913 0.89755 96.4369 649.555)" fill="#27AE60"/>
+<use xlink:href="#path49_fill" transform="matrix(0.89755 -0.440913 0.440913 0.89755 -289.04 821.556)" fill="#27AE60"/>
 </g>
 <g id="Rectangle 2">
-<use xlink:href="#path58_fill" transform="matrix(0.985939 -0.167103 0.324881 0.945755 99.4935 637.049)" fill="#27AE60"/>
+<use xlink:href="#path50_fill" transform="matrix(0.925744 -0.37815 -0.0421147 0.999113 -274.339 808.468)" fill="#27AE60"/>
+</g>
+</g>
+<g id="Group" filter="url(#filter15_d)">
+<g id="Rectangle 3">
+<use xlink:href="#path51_fill" transform="matrix(0.89755 -0.440913 0.440913 0.89755 -237.614 786.778)" fill="#6FCF97"/>
+</g>
+<g id="Rectangle 3.1">
+<use xlink:href="#path51_fill" transform="matrix(0.89755 -0.440913 0.440913 0.89755 -222.956 801.571)" fill="#6FCF97"/>
+</g>
+<g id="Rectangle 3.2">
+<use xlink:href="#path52_fill" transform="matrix(0.89755 -0.440913 0.440913 0.89755 -226.857 828.146)" fill="#6FCF97"/>
+</g>
+<g id="Rectangle 3.4">
+<use xlink:href="#path53_fill" transform="matrix(0.691071 -0.722787 0.573924 0.818908 -238.373 815.324)" fill="#6FCF97"/>
+</g>
+<g id="Rectangle 3.3">
+<use xlink:href="#path54_fill" transform="matrix(0.89755 -0.440913 0.440913 0.89755 -226.739 792.1)" fill="#6FCF97"/>
+</g>
+<g id="Rectangle 3">
+<use xlink:href="#path55_fill" transform="matrix(0.5101 0.860115 -0.802199 0.597056 -202.386 810.883)" fill="#27AE60"/>
+</g>
+<g id="Rectangle 3">
+<use xlink:href="#path56_fill" transform="matrix(0.810349 -0.585947 0.504918 0.863168 -233.939 815.098)" fill="#27AE60"/>
+</g>
+<g id="Rectangle 4">
+<use xlink:href="#path57_fill" transform="matrix(0.89755 -0.440913 0.440913 0.89755 -240.563 805.555)" fill="#27AE60"/>
+</g>
+<g id="Rectangle 2">
+<use xlink:href="#path58_fill" transform="matrix(0.985939 -0.167103 0.324881 0.945755 -237.507 793.049)" fill="#27AE60"/>
 </g>
 </g>
 </g>
 <g id="Group 2.1">
 <g id="Star">
-<use xlink:href="#path4_fill" transform="matrix(-0.965378 0.260857 -0.260857 -0.965378 171.853 423.67)" fill="#C4C4C4"/>
+<use xlink:href="#path4_fill" transform="matrix(-0.965378 0.260857 -0.260857 -0.965378 -178.147 387.184)" fill="#C4C4C4"/>
 </g>
 <g id="Star">
-<use xlink:href="#path6_fill" transform="matrix(-0.965378 0.260857 -0.260857 -0.965378 117.661 450.013)" fill="#C4C4C4"/>
+<use xlink:href="#path6_fill" transform="matrix(-0.965378 0.260857 -0.260857 -0.965378 -232.339 413.527)" fill="#C4C4C4"/>
 </g>
 </g>
 <g id="Group 3">
 <g id="Rectangle 3.1">
-<use xlink:href="#path51_fill" transform="matrix(0.127353 0.991857 -0.991857 0.127353 104.238 669.739)" fill="#6FCF97"/>
+<use xlink:href="#path51_fill" transform="matrix(0.127353 0.991857 -0.991857 0.127353 -235.24 827.253)" fill="#6FCF97"/>
 </g>
 <g id="Rectangle 3.2">
-<use xlink:href="#path52_fill" transform="matrix(0.127353 0.991857 -0.991857 0.127353 80.3474 657.464)" fill="#6FCF97"/>
+<use xlink:href="#path52_fill" transform="matrix(0.127353 0.991857 -0.991857 0.127353 -259.131 814.977)" fill="#6FCF97"/>
 </g>
 <g id="Rectangle 3.4">
-<use xlink:href="#path53_fill" transform="matrix(0.460812 0.887498 -0.960397 0.278636 96.2021 650.707)" fill="#6FCF97"/>
+<use xlink:href="#path53_fill" transform="matrix(0.460812 0.887498 -0.960397 0.278636 -243.276 808.22)" fill="#6FCF97"/>
 </g>
 <g id="Rectangle 3.3">
-<use xlink:href="#path54_fill" transform="matrix(0.127353 0.991857 -0.991857 0.127353 114.424 669.219)" fill="#6FCF97"/>
+<use xlink:href="#path54_fill" transform="matrix(0.127353 0.991857 -0.991857 0.127353 -225.054 826.732)" fill="#6FCF97"/>
 </g>
 <g id="Rectangle 3">
-<use xlink:href="#path55_fill" transform="matrix(-0.978778 0.204922 -0.305925 -0.952056 88.7812 686.199)" fill="#27AE60"/>
+<use xlink:href="#path55_fill" transform="matrix(-0.978778 0.204922 -0.305925 -0.952056 -250.697 843.712)" fill="#27AE60"/>
 </g>
 <g id="Rectangle 3">
-<use xlink:href="#path56_fill" transform="matrix(0.292779 0.95618 -0.979993 0.199032 94.9836 654.976)" fill="#27AE60"/>
+<use xlink:href="#path56_fill" transform="matrix(0.292779 0.95618 -0.979993 0.199032 -244.494 812.49)" fill="#27AE60"/>
 </g>
 <g id="Rectangle 3">
-<use xlink:href="#path51_fill" transform="matrix(0.127353 0.991857 -0.991857 0.127353 122.973 660.646)" fill="#6FCF97"/>
+<use xlink:href="#path51_fill" transform="matrix(0.127353 0.991857 -0.991857 0.127353 -216.505 818.159)" fill="#6FCF97"/>
 </g>
 <g id="Rectangle 4">
-<use xlink:href="#path57_fill" transform="matrix(0.127353 0.991857 -0.991857 0.127353 106.155 651.789)" fill="#27AE60"/>
+<use xlink:href="#path57_fill" transform="matrix(0.127353 0.991857 -0.991857 0.127353 -233.323 809.303)" fill="#27AE60"/>
 </g>
 <g id="Rectangle 2">
-<use xlink:href="#path58_fill" transform="matrix(-0.160331 0.987063 -0.999998 0.00196921 117.003 658.722)" fill="#27AE60"/>
+<use xlink:href="#path58_fill" transform="matrix(-0.160331 0.987063 -0.999998 0.00196921 -222.475 816.235)" fill="#27AE60"/>
 </g>
 </g>
 <g id="Rectangle 2">
-<use xlink:href="#path59_fill" transform="matrix(0.971177 -0.23836 0.23836 0.971177 83.478 649.399)" fill="#219653"/>
+<use xlink:href="#path59_fill" transform="matrix(0.971177 -0.23836 0.23836 0.971177 -272 822.912)" fill="#219653"/>
 </g>
 <g id="Rectangle 3">
-<use xlink:href="#path60_fill" transform="matrix(-0.971454 0.237229 -0.237229 -0.971454 -3.1665 575.751)" fill="#219653"/>
-</g>
-<g id="Ellipse 2">
-<use xlink:href="#path61_fill" transform="translate(-86.522 861.486)" fill="#9B51E0"/>
-</g>
-<g id="Line">
-<use xlink:href="#path62_stroke" transform="matrix(-0.999999 0.00112381 -0.00112381 -0.999999 -5.52197 875.486)" fill="#FFF500"/>
+<use xlink:href="#path60_fill" transform="matrix(-0.971454 0.237229 -0.237229 -0.971454 -348.289 738.543)" fill="#219653"/>
 </g>
 <g id="Star">
-<use xlink:href="#path6_fill" transform="matrix(-0.645127 0.764075 -0.764075 -0.645127 1121.54 951.61)" fill="#C4C4C4"/>
+<use xlink:href="#path6_fill" transform="matrix(-0.645127 0.764075 -0.764075 -0.645127 775.541 914.61)" fill="#C4C4C4"/>
 </g>
 <g id="Star">
-<use xlink:href="#path7_fill" transform="matrix(-0.960414 -0.278576 0.278576 -0.960414 1150.3 848.334)" fill="#DBDBDB"/>
+<use xlink:href="#path7_fill" transform="matrix(-0.960414 -0.278576 0.278576 -0.960414 804.297 811.334)" fill="#DBDBDB"/>
 </g>
 </g>
 </g>
 <defs>
-<filter id="filter0_d" filterUnits="userSpaceOnUse" x="190" y="519" width="56" height="26" color-interpolation-filters="sRGB">
+<filter id="filter0_d" filterUnits="userSpaceOnUse" x="-260" y="578" width="123" height="107" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 255 0"/>
 <feOffset dx="0" dy="4"/>
@@ -400,7 +396,7 @@
 <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
 <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
 </filter>
-<filter id="filter1_d" filterUnits="userSpaceOnUse" x="186" y="478" width="43" height="22" color-interpolation-filters="sRGB">
+<filter id="filter1_d" filterUnits="userSpaceOnUse" x="-232" y="644" width="55" height="25" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 255 0"/>
 <feOffset dx="0" dy="4"/>
@@ -409,7 +405,7 @@
 <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
 <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
 </filter>
-<filter id="filter2_d" filterUnits="userSpaceOnUse" x="239" y="496" width="40" height="24" color-interpolation-filters="sRGB">
+<filter id="filter2_d" filterUnits="userSpaceOnUse" x="-236" y="603" width="43" height="21" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 255 0"/>
 <feOffset dx="0" dy="4"/>
@@ -418,7 +414,7 @@
 <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
 <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
 </filter>
-<filter id="filter3_d" filterUnits="userSpaceOnUse" x="216" y="457" width="43" height="21" color-interpolation-filters="sRGB">
+<filter id="filter3_d" filterUnits="userSpaceOnUse" x="-183" y="620" width="40" height="25" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 255 0"/>
 <feOffset dx="0" dy="4"/>
@@ -427,7 +423,7 @@
 <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
 <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
 </filter>
-<filter id="filter4_d" filterUnits="userSpaceOnUse" x="-149" y="445" width="1227" height="625" color-interpolation-filters="sRGB">
+<filter id="filter4_d" filterUnits="userSpaceOnUse" x="-206" y="581" width="43" height="22" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 255 0"/>
 <feOffset dx="0" dy="4"/>
@@ -436,7 +432,16 @@
 <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
 <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
 </filter>
-<filter id="filter5_i" filterUnits="userSpaceOnUse" x="1022" y="81" width="645" height="526" color-interpolation-filters="sRGB">
+<filter id="filter5_d" filterUnits="userSpaceOnUse" x="-486" y="417" width="1227" height="625" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 255 0"/>
+<feOffset dx="0" dy="4"/>
+<feGaussianBlur stdDeviation="2"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<filter id="filter6_i" filterUnits="userSpaceOnUse" x="676" y="44" width="645" height="526" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 255 0" result="hardAlpha"/>
@@ -446,7 +451,7 @@
 <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
 <feBlend mode="normal" in2="shape" result="effect1_innerShadow"/>
 </filter>
-<filter id="filter6_d" filterUnits="userSpaceOnUse" x="267" y="767" width="128" height="84" color-interpolation-filters="sRGB">
+<filter id="filter7_d" filterUnits="userSpaceOnUse" x="-79" y="730" width="128" height="84" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 255 0"/>
 <feOffset dx="0" dy="4"/>
@@ -455,7 +460,7 @@
 <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
 <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
 </filter>
-<filter id="filter7_d" filterUnits="userSpaceOnUse" x="267" y="814" width="48" height="37" color-interpolation-filters="sRGB">
+<filter id="filter8_d" filterUnits="userSpaceOnUse" x="-79" y="777" width="48" height="37" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 255 0"/>
 <feOffset dx="0" dy="4"/>
@@ -464,7 +469,7 @@
 <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
 <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
 </filter>
-<filter id="filter8_d" filterUnits="userSpaceOnUse" x="-99" y="480" width="294" height="267" color-interpolation-filters="sRGB">
+<filter id="filter9_d" filterUnits="userSpaceOnUse" x="-436" y="636" width="294" height="267" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 255 0"/>
 <feOffset dx="0" dy="4"/>
@@ -473,7 +478,7 @@
 <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
 <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
 </filter>
-<filter id="filter9_d" filterUnits="userSpaceOnUse" x="-15" y="480" width="126" height="29" color-interpolation-filters="sRGB">
+<filter id="filter10_d" filterUnits="userSpaceOnUse" x="-352" y="636" width="126" height="29" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 255 0"/>
 <feOffset dx="0" dy="4"/>
@@ -482,7 +487,7 @@
 <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
 <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
 </filter>
-<filter id="filter10_d" filterUnits="userSpaceOnUse" x="-14" y="718" width="126" height="29" color-interpolation-filters="sRGB">
+<filter id="filter11_d" filterUnits="userSpaceOnUse" x="-351" y="874" width="126" height="29" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 255 0"/>
 <feOffset dx="0" dy="4"/>
@@ -491,7 +496,7 @@
 <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
 <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
 </filter>
-<filter id="filter11_d" filterUnits="userSpaceOnUse" x="-80" y="530" width="119" height="98" color-interpolation-filters="sRGB">
+<filter id="filter12_d" filterUnits="userSpaceOnUse" x="-417" y="686" width="119" height="98" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 255 0"/>
 <feOffset dx="0" dy="4"/>
@@ -500,7 +505,7 @@
 <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
 <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
 </filter>
-<filter id="filter12_d" filterUnits="userSpaceOnUse" x="63" y="510" width="61" height="72" color-interpolation-filters="sRGB">
+<filter id="filter13_d" filterUnits="userSpaceOnUse" x="-274" y="666" width="61" height="72" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 255 0"/>
 <feOffset dx="0" dy="4"/>
@@ -509,7 +514,7 @@
 <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
 <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
 </filter>
-<filter id="filter13_d" filterUnits="userSpaceOnUse" x="41" y="621" width="99" height="69" color-interpolation-filters="sRGB">
+<filter id="filter14_d" filterUnits="userSpaceOnUse" x="-296" y="777" width="99" height="69" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 255 0"/>
 <feOffset dx="0" dy="4"/>
@@ -518,7 +523,7 @@
 <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
 <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
 </filter>
-<filter id="filter14_d" filterUnits="userSpaceOnUse" x="92" y="620" width="55" height="71" color-interpolation-filters="sRGB">
+<filter id="filter15_d" filterUnits="userSpaceOnUse" x="-245" y="776" width="55" height="71" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 255 0"/>
 <feOffset dx="0" dy="4"/>
@@ -588,7 +593,5 @@
 <path id="path58_fill" d="M 0 0L 27.9743 0L 27.9743 9.47092L 0 9.47092L 0 0Z"/>
 <path id="path59_fill" d="M 0 0L 29 0L 29 12L 0 12L 0 0Z"/>
 <path id="path60_fill" d="M 0 0L 38 0L 38 16L 0 16L 0 0Z"/>
-<path id="path61_fill" d="M 99 19C 99 29.4934 76.8381 38 49.5 38C 22.1619 38 0 29.4934 0 19C 0 8.50659 22.1619 0 49.5 0C 76.8381 0 99 8.50659 99 19Z"/>
-<path id="path62_stroke" d="M 0 0L 57.0001 0L 57.0001 -10L 0 -10L 0 0Z"/>
 </defs>
 </svg>
