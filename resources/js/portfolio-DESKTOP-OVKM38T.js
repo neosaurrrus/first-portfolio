@@ -27,12 +27,6 @@ meNav.addEventListener("click", function () {
     me.style.setProperty('display', 'block');
     projects.style.setProperty('display', 'none');
     origin.style.setProperty('display', 'none');
-    // let mePosition= 0;
-    // let projectsPosition = 100;
-    // let originPosition = 200;
-    // me.style.setProperty('left', mePosition +'%')
-    // projects.style.setProperty('left', projectsPosition +'%')
-    // origin.style.setProperty('left', originPosition +'%')
 });
 projectsNav.addEventListener("click", function () {
     colorSwitch(50, "rgb(189,59,4)", "rgb(79,51,30)");
@@ -41,7 +35,7 @@ projectsNav.addEventListener("click", function () {
     origin.style.setProperty('display', 'none');
 });
 originNav.addEventListener("click", function () {
-    colorSwitch(100, "rgb(0,53,133)", "rgb(30,54,79)")
+    colorSwitch(100, "rgb(44,64,180)", "rgb(30,54,79)")
     me.style.setProperty('display', 'none');
     projects.style.setProperty('display', 'none');
     origin.style.setProperty('display', 'block');

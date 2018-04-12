@@ -25,7 +25,7 @@ body{
 }
 
 a{
-    color: var(--text);
+    color: var(--highlight);
    text-decoration: #272727;
 }
 p{
@@ -43,7 +43,7 @@ h4{
 }
 
 .header{
-    background: white url(images/bighero2.svg);
+    background: white url(../images/bighero3.svg);
     background-position: bottom left;
     background-size:  300% 100%;
     background-position-x: 0%;
@@ -107,6 +107,9 @@ nav li{
     transition: all 500ms;  
     overflow-x: hidden
 }
+.site-wrap > * {
+    transition: left 500ms ease-in-out;;
+}
 
 .section {
     display:flex;
@@ -144,12 +147,12 @@ nav li{
     font-size: 0.5em;
 }
 .about-pic{
-  background: white url(me.jpg);
+  background: white url(../images/me.jpg);
   background-size: cover;
 }
 
 .skills-slider{
-    background: white url(skills.png);
+    background: white url(../images/skills.png);
     height:100%;
     width:100%;
     transition: all 500ms ease-in-out;
@@ -172,24 +175,16 @@ nav li{
     transform: scale(1.5,1.5);
     transition: transform 300ms ease-in-out
 }
-.social >*{
+.social >*{position: relative;
     transition: transform 300ms ease-in-out
+}
+
+.me-parent{
+    display:block;
 }
 .projects-parent{
     display: none;
-    position: relative;
-    left: 100%;
-    transition: left 500ms;
 }
 .origin-parent{
-    display: none;
-    position: relative;
-    left:200%;  
-    transition: left 500ms ease-in-out;
-}
-.me-parent{
-    display:inline-block;
-    position:relative;
-    left: 0%;
-    transition: left 500ms;
+    display:none;
 }
