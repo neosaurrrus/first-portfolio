@@ -1,8 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Righteous');
 
-/* --background: rgb(44,130,89);
-        --darkbackground: rgb(30,79,51);
-        --highlight: rgb(216, 241, 104); */
+
 :root {
   --text: rgb(240,240,240);
   --black: #272727;
@@ -43,30 +41,50 @@ h4{
 }
 
 .header{
-    background: white url(../images/bighero3.svg);
-    background-position: bottom left;
-    background-size:  300% 100%;
-    background-position-x: 0%;
-    transition: all 500ms;
+    position: relative;
+    height: 600px;
+    width:100%;
 }
 
 
 .hero{
-    display: grid;
-    min-width: 1vw;
-    grid-template-columns: 50% 50%;
-    align-content: center;
-    padding-right: 5%;
-    justify-items: end;  
-    background-position-x: var(--backgroundOffset); 
+    position: absolute;
+    display: inline-block;
+    left: 60%;
+    top: -5%;
+    height: 100%;
+    width: 1vw;
     transition: all 500ms ease-in-out;
-    overflow-x: hidden;
 }
 
+.hero-image{
+    background: grey;
+    position: absolute;
+    display: inline-block;
+    width: 100%;
+    height: 600px;
+    background-position: bottom left;
+    background-size: cover;
+    transition: all 500ms;
+}
 
-.hero .hero-text{
+.hero1{
+     background: url("../images/hero1.svg");
+     left: 0%;
+}
+.hero2{
+     background: url("../images/hero2.svg");
+     left: 100%;
+}
+.hero3{
+     background: url("../images/hero1.svg");
+     left:200%;
+     
+     /* background-position: top right; */
+}
+
+.hero-text{
     font-size: 2.3em;
-    grid-column: 2;
 }   
 
 .hero-line{
@@ -75,10 +93,11 @@ h4{
 }
 
 nav{
-padding: 10px 0 0 10px;
+padding: 50px 0 0 10px;
 display:flex;
 justify-content: center;
 height: 50px;
+position: sticky;
 }
 nav ul{
     display:flex;
@@ -92,7 +111,6 @@ nav li:hover{
   transform: scale(1.5);
   transition: all 300ms linear;
   color: green;  
-  /* Check how to set color on hover */
 }
 nav li{
   font-size: 24px;
