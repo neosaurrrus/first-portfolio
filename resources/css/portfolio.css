@@ -98,7 +98,6 @@ a{
      background-position: bottom left;
      left:200%;
 }
-
 .hero-text{
     font-size: 2em;
     padding-right: 10%;
@@ -113,8 +112,8 @@ a{
 /* Navigation Classes */
 
 nav{
-    background: var(--background);
-    margin: 30px 0 10px 0;
+    margin-bottom: 20px;
+    padding-top: 10px;
     display:flex;
     justify-content: center;
     align-items: center;  
@@ -125,22 +124,23 @@ nav{
     transition: all 500ms linear;
 }
 nav ul{
-    margin: 0 auto;
+    background: var(--background);
     display:flex;
     justify-content: space-between;
     list-style: none;
-    min-width: 30%;
+    min-width: 40%;
     max-width: 80%;
     text-shadow: black;
+    border-radius: 5%
 }
 
 nav li:hover{
-  transform: scale(1.5);
+  transform: scale(1.2);
   transition: all 300ms ease-in-out; 
 }
 nav li{
   transition: all 300ms ease-in-out; 
-  padding-right: 10px;
+  padding-right: 0px;
 }
 
 /* Main Content Classes */
@@ -160,9 +160,7 @@ nav li{
 .projects-parent{
     display: none;
 }
-.origin-parent{
-    display:none;
-}
+
 .section {
     display:flex;
     align-items: center;
@@ -177,7 +175,7 @@ nav li{
     background:var(--highlight);
     margin: 0 auto;
     box-shadow: 10px 20px var(--darkbackground);
-    border-radius: 100%;
+    border-radius: 5%;
 }
 
 
@@ -207,14 +205,12 @@ nav li{
 .sidepic {
     height: 100%;
     width: 100%;
-    border-radius: 100%;
 }
 
 .skills-slider{
     background: white url(../images/skills.png);
     height:100%;
     width:100%;
-    border-radius: 100%;
     transition: all 500ms ease-in-out;
     background-position-y: var(--slideY);
 }
@@ -242,10 +238,11 @@ nav li{
 .highlight{
     position: absolute;
     border: 5px solid var(--highlight);
-    top: 2px;
-    height: 43px;
+    top: -20px;
+    height: 90px;
     width: 200px;
-    left: 100px;
+    left: 150%;
     transition: 500ms all;
     border-radius: 20px;
+    z-index: 3;
 }
